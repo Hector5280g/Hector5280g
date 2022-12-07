@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Hector Garcia. I am a Full Stack developer student with experience building websites and web applications. I specialize in JavaScript and have experience working with Express.js and React. I also have experience working with MongoDB.
+My name is Hector Garcia. I am a Full Stack developer student with experience building websites and web applications. I specialize in JavaScript and have experience working with Express.js and React. I also have experience working with MongoDB.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hector5280g-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hector5280g/)](https://www.linkedin.com/in/hector5280g/)
 [![Gmail Badge](https://img.shields.io/badge/-Hectorgarcia342@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hectorgarcia342@yahoo.com)](mailto:hectorgarcia342@yahoo.com)
