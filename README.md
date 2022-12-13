@@ -18,7 +18,10 @@ My name is Hector Garcia. I am a Full Stack developer student with experience bu
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hector5280g&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HectorLGarcia
+&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector5280g&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hector5280g.Hector5280g)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HectorLGarcia
+.HectorLGarcia
+)
